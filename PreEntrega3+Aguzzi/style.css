@@ -1,0 +1,27 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#darklight {
+    width: 10%;
+    height: 10%;
+}
+
+#loginit {
+    display: none;
+}
+
+#tituloprincipal {
+    outline-color: white;
+    outline-width: 1%;
+}
+
+.light-mode {
+    background-color: antiquewhite;
+}
+
+.dark-mode {
+    background-color: black;
+    color: white;
+}
